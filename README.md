@@ -16,5 +16,5 @@ You will also see any lint errors in the console.
 
 
 # myblog
-This Project was developed in React
+This Project was developed in React.
 Clone it and install the necessary packages the run it
