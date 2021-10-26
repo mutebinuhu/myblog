@@ -1,6 +1,6 @@
 # myblog
 This Project was developed in React.
-Clone it and install the necessary packages the run it
+Clone it and install the necessary packages then run it
 
 ## Available Scripts
 
